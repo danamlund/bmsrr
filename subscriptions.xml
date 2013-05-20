@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Google reader RSS subscriptions.xml example</title>
+    </head>
+    <body>
+        <outline text="Dwarf Fortress Development Log"
+            title="Dwarf Fortress Development Log" type="rss"
+            xmlUrl="http://www.bay12games.com/dwarves/dev_now.rss" htmlUrl="http://www.bay12games.com/dwarves/index.html"/>
+        <outline text="Hack a Day" title="Hack a Day" type="rss"
+            xmlUrl="http://feeds2.feedburner.com/hackaday/LgoM" htmlUrl="http://hackaday.com"/>
+        <outline
+            text="Lambda the Ultimate - Programming Languages Weblog"
+            title="Lambda the Ultimate - Programming Languages Weblog"
+            type="rss" xmlUrl="http://lambda-the-ultimate.org/rss.xml" htmlUrl="http://lambda-the-ultimate.org"/>
+        <outline text="Matt Might's blog" title="Matt Might's blog"
+            type="rss" xmlUrl="http://matt.might.net/articles/feed.rss" htmlUrl="http://matt.might.net/"/>
+        <outline text="Open Space Aarhus" title="Open Space Aarhus"
+            type="rss" xmlUrl="http://osaa.dk/feed/" htmlUrl="http://osaa.dk"/>
+        <outline text="Planet Emacsen" title="Planet Emacsen" type="rss"
+            xmlUrl="http://planet.emacsen.org/atom.xml" htmlUrl="http://planet.emacsen.org/"/>
+        <outline text="RSS feed for danamlund.dk"
+            title="RSS feed for danamlund.dk" type="rss"
+            xmlUrl="http://danamlund.dk/rss.xml" htmlUrl="http://danamlund.dk"/>
+        <outline text="Slashdot" title="Slashdot" type="rss"
+            xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="http://slashdot.org/"/>
+        <outline text="The Daily WTF" title="The Daily WTF" type="rss"
+            xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" htmlUrl="http://thedailywtf.com/"/>
+        <outline text="xkcd.com" title="xkcd.com" type="rss"
+            xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
+    </body>
+</opml>
