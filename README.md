@@ -15,7 +15,5 @@ Features missing (that Google Reader have):
  4. An easy way to add/edit RSS feeds
  5. Instantly get new stories
 
-
-Site
-=====
-http://danamlund.dk/bmsrr.html
+Site:
+  http://danamlund.dk/bmsrr.html
